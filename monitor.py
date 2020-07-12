@@ -20,7 +20,7 @@ cpuUseList = []
 
 
 sumCPU_lock = threading.Lock()
-sumMem_lock = threading.Lock()
+#sumMem_lock = threading.Lock()
 sumCPU = 0.0
 sumMem = 0.0
 
